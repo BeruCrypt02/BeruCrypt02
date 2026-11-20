@@ -1,27 +1,35 @@
-<h1 align="center">
+<div align="center">
   <a href="https://github.com/BeruCrypt02">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3400&pause=1200&color=4de2ff&center=true&vCenter=true&width=680&height=48&lines=beru;android+platform+engineer;egypt;beru.dev" alt="beru — android platform engineer — egypt — beru.dev" />
+    <img src="custom/banner.svg" alt="Beru — pixel night workspace" width="100%" />
   </a>
-</h1>
+</div>
+
+<div align="center">
+  <img src="custom/emblem.svg" width="64" alt="" />
+</div>
+
+<div align="center">
+  <img src="custom/name.svg" width="380" alt="BERU" />
+</div>
+
+<h2 align="center">android platform engineer</h2>
 
 <p align="center">
-  <img src="assets/bonsai-growth.gif" width="432" alt="animated pixel bonsai growing" />
-</p>
-
-```yaml
-name:     beru
-role:     android platform engineer
-location: egypt
-web:      beru.dev
-```
-
-<p align="center">
-  <a href="https://t.me/BeruCrypt00"><img src="https://img.shields.io/badge/Telegram-@BeruCrypt00-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @BeruCrypt00" /></a>
-  <a href="mailto:berucrypt00@gmail.com"><img src="https://img.shields.io/badge/Gmail-berucrypt00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: berucrypt00@gmail.com" /></a>
-  <a href="https://github.com/BeruCrypt02"><img src="https://img.shields.io/badge/GitHub-BeruCrypt02-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: BeruCrypt02" /></a>
-  <img src="https://img.shields.io/badge/Discord-beru.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: beru.dev" />
+  <img src="custom/chip-egypt.svg" width="110" alt="egypt" />
+  <img src="custom/chip-web.svg" width="130" alt="beru.dev" />
 </p>
 
 <p align="center">
-  <img src="assets/bonsai-sakura.gif" width="324" alt="animated pixel sakura bonsai" />
+  <img src="assets/bonsai-growth.gif" width="432" alt="pixel bonsai growing from GitHub history" />
+</p>
+
+<p align="center">
+  <img src="assets/bonsai-sakura.gif" width="486" alt="pixel sakura bonsai" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/BeruCrypt00"><img src="custom/row-telegram.svg" width="420" alt="Telegram: @BeruCrypt00" /></a><br />
+  <a href="mailto:berucrypt00@gmail.com"><img src="custom/row-gmail.svg" width="420" alt="Gmail: berucrypt00@gmail.com" /></a><br />
+  <a href="https://github.com/BeruCrypt02"><img src="custom/row-github.svg" width="420" alt="GitHub: BeruCrypt02" /></a><br />
+  <img src="custom/row-discord.svg" width="420" alt="Discord: beru.dev" />
 </p>
