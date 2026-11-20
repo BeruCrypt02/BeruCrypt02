@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/bonsai-growth.gif" width="384" alt="animated pixel bonsai growing" />
+  <img src="assets/bonsai-growth.gif" width="432" alt="animated pixel bonsai growing" />
 </p>
 
 ```yaml
@@ -23,5 +23,5 @@ web:      beru.dev
 </p>
 
 <p align="center">
-  <img src="assets/bonsai-sakura.gif" width="320" alt="animated pixel sakura bonsai" />
+  <img src="assets/bonsai-sakura.gif" width="324" alt="animated pixel sakura bonsai" />
 </p>
